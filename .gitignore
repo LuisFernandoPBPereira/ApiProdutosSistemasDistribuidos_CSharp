@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+.vs/
+.env
+*.db
+*.db-shm
+*.db-wal
+publish
